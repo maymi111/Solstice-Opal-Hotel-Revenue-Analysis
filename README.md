@@ -55,3 +55,7 @@ Skills:
 Full analysis and code:
 
 [View Jupyter Notebook](./Solstice_Opal_Hotel_Revenue_Analysis.ipynb)
+
+## Report
+
+[View Project Report](./Report/Hotel_Analysis_Report.pdf)
