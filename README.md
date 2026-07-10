@@ -58,4 +58,4 @@ Full analysis and code:
 
 ## Report
 
-[View Project Report](./Report/Hotel_Analysis_Report.pdf)
+[View Project Report](./Report/Solstice_Opal_Hotel_Revenue_Analysis_Report.pdf)
